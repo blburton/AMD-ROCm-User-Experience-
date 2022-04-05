@@ -1,0 +1,21 @@
+# Contributor's Guide Template
+### 1. Contributor's Guide ( library name )
+#### 1.1 Pull-request Guidelines 
+
+#### 1.2. Style Guide
+
+##### 1.2.1. Interface
+
+##### 1.2.2. Philosophy
+
+##### 1.2.3. Implementation
+
+##### 1.2.4. Format
+
+#### 1.3. Coding Guidelines
+
+#### 1.4. Static Code Analysis
+
+### 2. Acknowledgement 
+
+### 3. Disclaimer
